@@ -26,8 +26,8 @@ The following Python packages are required to run the server:
 1. **Clone the Repository**
 
    ```
-   git clone github.com/ RUCHIKA
-   cd [your-repo-directory] RUCHIKA
+   git clone https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings.git
+   cd flask_backend 
    ```
 2. **Set Up a Virtual Environment (Optional)**
    ```
