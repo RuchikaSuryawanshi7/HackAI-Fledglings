@@ -73,27 +73,27 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings.git
-Screenshot 1
+
 
 Change to the project directory:
 
-bash
+```bash
 Copy code
 cd temperature-alert-agent
 Install dependencies:
 
-bash
+```bash
 Copy code
 npm install
 Start the development server:
 
-bash
+```bash
 Copy code
 npm start
 Python Flask Backend
 Install Flask and other required libraries:
 
-bash
+```bash
 Copy code
 pip install Flask
 pip install uagent
@@ -101,12 +101,13 @@ Install any additional libraries required for the Fetch.ai uAgent library as men
 
 Run the backend server:
 
-bash
+```bash
 Copy code
 python server.py
 Make sure that the backend server is running before using the Temperature Alert Agent web application.
+```
 
-Usage
+##Usage
 To use Temperature Alert Agent, open the application in your web browser.
 Set up temperature alerts and configure your preferred locations.
 Stay informed about temperature changes and receive notifications.
