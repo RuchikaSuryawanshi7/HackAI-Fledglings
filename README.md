@@ -2,8 +2,8 @@
 Submission For Hack-AI IIT Bombay
 
 
-# Temperature Alert Agent: ![https://youtu.be/ApsbYPHZoTA]
-
+# Temperature Alert Agent:
+ ![https://youtu.be/ApsbYPHZoTA]
 ![Project Logo](https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/home.jpg)
 *Project Logo*
 
