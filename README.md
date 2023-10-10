@@ -22,7 +22,7 @@ Temperature Alert Agent is a cutting-edge weather monitoring and alerting applic
 - Set temperature alerts and receive notifications on your phone.
 - Get the latest weather information in real-time.
 - Receive accurate weather forecasts for your desired locations.
-- Enjoy an intuitive and easy-to-use interface.
+- Enjoy an intuitive and easy-to-use interface..
 
 ## Getting Started
 
