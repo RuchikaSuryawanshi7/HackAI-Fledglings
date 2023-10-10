@@ -1,13 +1,16 @@
 # HackAI-Fledglings
-Submission For Hack-AI IIT Bombay..
+Submission For Hack-AI IIT Bombay
+
 # Temperature Alert Agent
 
 ![Project Logo](https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/home.jpg)
+*Project Logo*
 
 Temperature Alert Agent is a cutting-edge weather monitoring and alerting application that provides real-time temperature data for your chosen location and ensures that you are always informed about temperature changes.
 
 ## Table of Contents
 
+- [Project Information](#project-information)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -16,6 +19,24 @@ Temperature Alert Agent is a cutting-edge weather monitoring and alerting applic
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Project Information
+
+**Project Type:** Web Application
+
+**Highlights:**
+- Real-time temperature data monitoring.
+- Temperature alert notifications.
+- Weather forecasts for desired locations.
+- User-friendly interface.
+
+**Technology Stack:**
+- React.js
+- Material-UI
+- Fetch.ai uAgent Library
+
+![Project Architecture](https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/architecture.jpg)
+*Project Architecture*
 
 ## Features
 
