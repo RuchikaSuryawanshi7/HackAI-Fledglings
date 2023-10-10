@@ -11,7 +11,7 @@ Temperature Alert Agent is a cutting-edge weather monitoring and alerting applic
 ## Video Demo
 
 You can watch a video demo of our project:
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/ApsbYPHZoTA)
+[![Watch the video](https://c1.wallpaperflare.com/preview/875/935/595/vhs-video-play-cassette.jpg)](https://youtu.be/ApsbYPHZoTA)
 
 
 
