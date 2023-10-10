@@ -42,6 +42,8 @@ Temperature Alert Agent is a cutting-edge weather monitoring and alerting applic
 **Technology Stack:**
 - React.js
 - Material-UI
+- Python
+- Flask
 - Fetch.ai uAgent Library
 
 ![Project Architecture](https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/architecture.jpg)
