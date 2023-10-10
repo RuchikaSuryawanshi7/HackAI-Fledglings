@@ -41,7 +41,7 @@ You can watch a video demo of our project:
 **Screenshots:**
 ## Screenshots
 
-![Screenshot 1]("https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/setalert.jpg)
+![Screenshot 1]("https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/notification.jpg)
 *Description of Screenshot 1*
 
 ![Screenshot 2](https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/weather%20Api.jpg)
