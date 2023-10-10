@@ -1,13 +1,16 @@
-# HackAI-Fledings
-Submission For Hack-AI IIT Bombay..
+# HackAI-Fledglings
+Submission For Hack-AI IIT Bombay
+
 # Temperature Alert Agent
 
-![Project Logo](url_to_your_logo.png)
+![Project Logo](https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/home.jpg)
+*Project Logo*
 
 Temperature Alert Agent is a cutting-edge weather monitoring and alerting application that provides real-time temperature data for your chosen location and ensures that you are always informed about temperature changes.
 
 ## Table of Contents
 
+- [Project Information](#project-information)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -17,12 +20,30 @@ Temperature Alert Agent is a cutting-edge weather monitoring and alerting applic
 - [Contributing](#contributing)
 - [License](#license)
 
+## Project Information
+
+**Project Type:** Web Application
+
+**Highlights:**
+- Real-time temperature data monitoring.
+- Temperature alert notifications.
+- Weather forecasts for desired locations.
+- User-friendly interface.
+
+**Technology Stack:**
+- React.js
+- Material-UI
+- Fetch.ai uAgent Library
+
+![Project Architecture](https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/architecture.jpg)
+*Project Architecture*
+
 ## Features
 
 - Set temperature alerts and receive notifications on your phone.
 - Get the latest weather information in real-time.
 - Receive accurate weather forecasts for your desired locations.
-- Enjoy an intuitive and easy-to-use interface..
+- Enjoy an intuitive and easy-to-use interface.
 
 ## Getting Started
 
@@ -38,4 +59,3 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/your-username/temperature-alert-agent.git
-
