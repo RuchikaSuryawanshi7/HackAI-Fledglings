@@ -84,20 +84,21 @@ npm install
 Start the development server:
 npm start
 ````
-##Python Flask Backend: Install Flask and other required libraries:
+**Python Flask Backend: Install Flask and other required libraries:
 ```bash
 
 pip install Flask
 pip install uagent
+```
 Install any additional libraries required for the Fetch.ai uAgent library as mentioned in the project documentation.
 
 Run the backend server:
-
-python server.py
-Make sure that the backend server is running before using the Temperature Alert Agent web application.
 ```
+python server.py
 
-##Usage
+```
+Make sure that the backend server is running before using the Temperature Alert Agent web application.
+**Usage
 To use Temperature Alert Agent, open the application in your web browser.
 Set up temperature alerts and configure your preferred locations.
 Stay informed about temperature changes and receive notifications.
