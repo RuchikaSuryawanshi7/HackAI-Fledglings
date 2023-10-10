@@ -30,6 +30,12 @@ Temperature Alert Agent is a cutting-edge weather monitoring and alerting applic
 - Weather forecasts for desired locations.
 - User-friendly interface.
 
+**Screenshots:**
+![Project Logo](https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/setalert.jpg)
+![Project Logo](https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/weather%20Api.jpg)
+![Project Logo](https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/analytics.jpg)
+
+
 **Technology Stack:**
 - React.js
 - Material-UI
