@@ -34,7 +34,7 @@ Temperature Alert Agent is a cutting-edge weather monitoring and alerting applic
 
 - Feature Images 
 <img src="https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/setalert.jpg" width="800">
-<img src="https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/notification.jpg" width="500">
+<img src="https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/notification.jpg" width="200">
 <img src="https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/weather%20Api.jpg" width="550">
 <img src="https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/analytics.jpg" width="800">
 
