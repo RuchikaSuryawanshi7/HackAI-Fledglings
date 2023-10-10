@@ -63,10 +63,50 @@ Temperature Alert Agent is a cutting-edge weather monitoring and alerting applic
 Before you begin, ensure you have met the following requirements:
 
 - Node.js and npm installed on your development machine.
+- Python installed for the backend.
 
 ### Installation
+
+#### React Frontend
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/temperature-alert-agent.git
+   git clone https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings.git
+Screenshot 1
+
+Change to the project directory:
+
+bash
+Copy code
+cd temperature-alert-agent
+Install dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm start
+Python Flask Backend
+Install Flask and other required libraries:
+
+bash
+Copy code
+pip install Flask
+pip install uagent
+Install any additional libraries required for the Fetch.ai uAgent library as mentioned in the project documentation.
+
+Run the backend server:
+
+bash
+Copy code
+python server.py
+Make sure that the backend server is running before using the Temperature Alert Agent web application.
+
+Usage
+To use Temperature Alert Agent, open the application in your web browser.
+Set up temperature alerts and configure your preferred locations.
+Stay informed about temperature changes and receive notifications.
