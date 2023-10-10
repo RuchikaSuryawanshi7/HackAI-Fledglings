@@ -3,14 +3,14 @@ Submission For Hack-AI IIT Bombay
 
 
 # Temperature Alert Agent:
- [Youtube Video](https://youtu.be/ApsbYPHZoTA)
+## [Youtube Video](https://youtu.be/ApsbYPHZoTA)
+ 
 ![Project Logo](https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/home.jpg)
 *Project Logo*
 
 Temperature Alert Agent is a cutting-edge weather monitoring and alerting application that provides real-time temperature data for your chosen location and ensures that you are always informed about temperature changes.
 
 ## Video Demo
-
 You can watch a video demo of our project:
 [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/ApsbYPHZoTA)
 
