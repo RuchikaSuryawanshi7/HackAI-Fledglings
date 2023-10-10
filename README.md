@@ -2,7 +2,7 @@
 Submission For Hack-AI IIT Bombay..
 # Temperature Alert Agent
 
-![Project Logo](url_to_your_logo.png)
+![Project Logo]([url_to_your_logo.png](https://github.com/RuchikaSuryawanshi7/HackAI-Fledglings/blob/main/assets/home.jpg))
 
 Temperature Alert Agent is a cutting-edge weather monitoring and alerting application that provides real-time temperature data for your chosen location and ensures that you are always informed about temperature changes.
 
