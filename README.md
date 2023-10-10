@@ -1,5 +1,5 @@
 # HackAI-Fledings
-Submission For Hack-AI IIT Bombay.
+Submission For Hack-AI IIT Bombay..
 # Temperature Alert Agent
 
 ![Project Logo](url_to_your_logo.png)
@@ -22,7 +22,7 @@ Temperature Alert Agent is a cutting-edge weather monitoring and alerting applic
 - Set temperature alerts and receive notifications on your phone.
 - Get the latest weather information in real-time.
 - Receive accurate weather forecasts for your desired locations.
-- Enjoy an intuitive and easy-to-use interface.
+- Enjoy an intuitive and easy-to-use interface..
 
 ## Getting Started
 
