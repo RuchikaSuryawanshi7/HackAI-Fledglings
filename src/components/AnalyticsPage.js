@@ -18,7 +18,7 @@ import {
 import { Room, Refresh, CenterFocusStrong } from '@mui/icons-material';
 import { WiThermometer, WiHumidity, WiBarometer, WiFog, WiStrongWind, WiCloudy, WiSunrise, WiSunset, WiRaindrop } from 'react-icons/wi';
 
-const apiKey = 'd486604013460d5d1888d50056c277f3';
+const apiKey = 'API_KEY_HERE';
 
 const styles = {
   container: {
